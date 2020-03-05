@@ -2,7 +2,7 @@
 use backend\assets\AppAsset;
 use yii\helpers\Html;
 
-/* @var $this \yii\web\View */
+/* @var $this ..\yii\web\View */
 /* @var $content string */
 
 dmstr\web\AdminLteAsset::register($this);
